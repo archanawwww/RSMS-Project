@@ -1,0 +1,23 @@
+[
+  {
+    "id": "SKU-321",
+    "sku": "SKU-322",
+    "name": "Submariner Date",
+    "currentStock": 5,
+    "reorderThreshold": 10
+  },
+  {
+    "id": "SKU-777",
+    "sku": "SKU-777",
+    "name": "Santos de Cartier",
+    "currentStock": 15,
+    "reorderThreshold": 10
+  },
+  {
+    "id": "SKU-999",
+    "sku": "SKU-999",
+    "name": "LV Keepall Bandoulière",
+    "currentStock": 2,
+    "reorderThreshold": 5
+  }
+]

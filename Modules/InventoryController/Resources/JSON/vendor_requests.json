@@ -1,0 +1,24 @@
+[
+  {
+    "id": "VR-001",
+    "vendorName": "Rolex Distribution",
+    "sku": "SKU-321",
+    "productName": "Submariner Date",
+    "quantity": 10,
+    "status": "Created",
+    "needByDate": "2026-07-01T00:00:00Z",
+    "createdAt": "2026-06-25T11:00:00Z",
+    "sourceRequestId": "REQ-001"
+  },
+  {
+    "id": "VR-002",
+    "vendorName": "LVMH Global",
+    "sku": "SKU-999",
+    "productName": "LV Keepall Bandoulière",
+    "quantity": 5,
+    "status": "Dispatched",
+    "needByDate": "2026-06-30T00:00:00Z",
+    "createdAt": "2026-06-22T09:00:00Z",
+    "sourceRequestId": null
+  }
+]

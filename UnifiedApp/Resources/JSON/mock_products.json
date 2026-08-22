@@ -1,0 +1,92 @@
+[
+  {
+    "id": "p1",
+    "sku": "SKU-1001",
+    "name": "Classic White T-Shirt",
+    "category": "Apparel",
+    "image_url": "https://picsum.photos/200",
+    "current_stock": 150,
+    "reorder_threshold": 50
+  },
+  {
+    "id": "p2",
+    "sku": "SKU-1002",
+    "name": "Leather Messenger Bag",
+    "category": "Accessories",
+    "image_url": "https://picsum.photos/201",
+    "current_stock": 25,
+    "reorder_threshold": 10
+  },
+  {
+    "id": "p3",
+    "sku": "SKU-1003",
+    "name": "Noise-Canceling Headphones",
+    "category": "Electronics",
+    "image_url": "https://picsum.photos/202",
+    "current_stock": 80,
+    "reorder_threshold": 20
+  },
+  {
+    "id": "p4",
+    "sku": "SKU-1004",
+    "name": "Ceramic Coffee Mug",
+    "category": "Home Goods",
+    "image_url": "https://picsum.photos/203",
+    "current_stock": 200,
+    "reorder_threshold": 50
+  },
+  {
+    "id": "p5",
+    "sku": "SKU-1005",
+    "name": "Yoga Mat",
+    "category": "Fitness",
+    "image_url": "https://picsum.photos/204",
+    "current_stock": 60,
+    "reorder_threshold": 15
+  },
+  {
+    "id": "p6",
+    "sku": "SKU-1006",
+    "name": "Steel Water Bottle",
+    "category": "Accessories",
+    "image_url": "https://picsum.photos/205",
+    "current_stock": 120,
+    "reorder_threshold": 30
+  },
+  {
+    "id": "p7",
+    "sku": "SKU-1007",
+    "name": "Minimalist Wristwatch",
+    "category": "Accessories",
+    "image_url": "https://picsum.photos/206",
+    "current_stock": 45,
+    "reorder_threshold": 10
+  },
+  {
+    "id": "p8",
+    "sku": "SKU-1008",
+    "name": "Ergonomic Office Chair",
+    "category": "Furniture",
+    "image_url": "https://picsum.photos/207",
+    "current_stock": 15,
+    "reorder_threshold": 5
+  },
+  {
+    "id": "p9",
+    "sku": "SKU-1009",
+    "name": "Essential Oil Diffuser",
+    "category": "Home Goods",
+    "image_url": "https://picsum.photos/208",
+    "current_stock": 90,
+    "reorder_threshold": 25
+  },
+  {
+    "id": "p10",
+    "sku": "SKU-1010",
+    "name": "Aviator Sunglasses",
+    "category": "Accessories",
+    "image_url": "https://picsum.photos/209",
+    "current_stock": 110,
+    "reorder_threshold": 40
+  }
+]
